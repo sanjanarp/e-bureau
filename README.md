@@ -33,12 +33,12 @@ https://user-images.githubusercontent.com/70858557/134819896-6d2e6876-2484-42a0-
 
 <div align="center">
 <a href="https://github.com/geekymeeky/e-bureau/graphs/contributors"><img src="https://img.shields.io/github/contributors/geekymeeky/e-bureau?color=brightgreen"></a>
-<a href="https://github.com/geekymeeky/chitchat/stargazers"><img src="https://img.shields.io/github/stars/geekymeeky/chitchat?color=0059b3"></a>
-<a href="https://github.com/geekymeeky/chitchat/network/members"><img src="https://img.shields.io/github/forks/geekymeeky/chitchat?color=yellow"></a>
-<a href="https://github.com/geekymeeky/chitchat/issues"><img src="https://img.shields.io/github/issues/geekymeeky/chitchat?color=0059b3"></a>
-<a href="https://github.com/geekymeeky/chitchat/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/geekymeeky/chitchat?color=yellow"></a>
-<a href="https://github.com/geekymeeky/chitchat/pulls"><img src="https://img.shields.io/github/issues-pr/geekymeeky/chitchat?color=brightgreen"></a>
-<a href="https://github.com/geekymeeky/chitchat/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/geekymeeky/chitchat?color=0059b3"></a> 
+<a href="https://github.com/geekymeeky/e-bureau/stargazers"><img src="https://img.shields.io/github/stars/geekymeeky/e-bureau?color=0059b3"></a>
+<a href="https://github.com/geekymeeky/e-bureau/network/members"><img src="https://img.shields.io/github/forks/geekymeeky/e-bureau?color=yellow"></a>
+<a href="https://github.com/geekymeeky/e-bureau/issues"><img src="https://img.shields.io/github/issues/geekymeeky/e-bureau?color=0059b3"></a>
+<a href="https://github.com/geekymeeky/e-bureau/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/geekymeeky/e-bureau?color=yellow"></a>
+<a href="https://github.com/geekymeeky/e-bureau/pulls"><img src="https://img.shields.io/github/issues-pr/geekymeeky/e-bureau?color=brightgreen"></a>
+<a href="https://github.com/geekymeeky/e-bureau/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/geekymeeky/e-bureau?color=0059b3"></a> 
 </div>
 
 ## Contributors
